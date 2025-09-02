@@ -44,12 +44,12 @@ A simple **Python-based dictionary application** that allows users to search for
 ### Steps  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/dictionary-python.git
+   https://github.com/JAM3S11/dictionary-data_python.git
 
 2. Navigate into the project folder:
 
    ```bash
-   cd dictionary-python
+   cd dictionary-data-python
    ```
 3. Run the script:
 
